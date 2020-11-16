@@ -6,5 +6,8 @@
     "description": "Описание",
     "done" : true
   }
-]
+],
+  "profile": {
+    "name": "typicode"
+  }
 }
